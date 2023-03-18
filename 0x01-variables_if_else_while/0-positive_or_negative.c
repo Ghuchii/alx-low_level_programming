@@ -6,7 +6,7 @@
 /**
  * main - start of our main function
  *
- * Return - this function returns 0 terminate program
+ * Return: function return 0
  */
 int main(void)
 {
