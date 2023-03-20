@@ -23,8 +23,10 @@ for (i = 0 ; i < 10 ; i++)
 				putchar(j + '0');
 				putchar(k + '0');
 				if (i + j + k != 24)
-					putchar(',');
+				{
+				putchar(',');
 				putchar(' ');
+				}
 			}
 		}
 	}
