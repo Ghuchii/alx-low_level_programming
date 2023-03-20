@@ -4,9 +4,8 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- *main function begins   
- *
- *Return: function returns 0
+ * main  start of program
+ * Return:terminate the program
  */
 int main(void)
 {
