@@ -2,7 +2,8 @@
 /**
  * main - start of program
  * Return: always zero
- */int main(void)
+ */
+int main(void)
 {
 	int i;
 	int j;
